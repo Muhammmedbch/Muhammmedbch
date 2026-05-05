@@ -1,75 +1,35 @@
-# 👋 Hi, I'm Mohamed Bachir Cherif
+# 👋 Mohamed Bachir Cherif
 
-💻 **Full-Stack Web Developer (Backend-focused)**  
-🌍 Based in Algeria  
-🚀 Building scalable web applications with a focus on backend systems
-
----
-
-## 🧠 About Me
-
-- 🔧 Focused on **backend development with Django**
-- 🌐 Building full-stack web apps with clean architecture
-- 🧩 Interested in APIs, databases, and system design
-- 🎨 Creating modern, responsive front-end interfaces when needed
+💻 **Backend-Focused Web Developer**  
+🚀 Building scalable, real-world web apps with **Django**
 
 ---
 
-## ⚙️ Tech Stack
+## ⚡ Tech
+**Backend:** Python • Django • REST APIs  
+**Frontend:** HTML • CSS • JavaScript  
+**Database:** SQLite • PostgreSQL (learning)  
+**Tools:** Git • Figma
 
-### 🚀 Backend
-- **Python, Django**
-- REST API development
-- Authentication & authorization systems
+---
 
-### 🎨 Frontend
-- HTML, CSS, JavaScript
-- Responsive UI design
-
-### 🗄️ Database
-- SQLite, PostgreSQL (learning)
-
-### 🛠️ Tools
-- Git & GitHub
-- Figma (UI Design)
-- Google Analytics
+## 🧠 Focus
+- Clean backend architecture  
+- API development & authentication systems  
+- Performance & scalable solutions  
 
 ---
 
 ## 🚀 Projects
-
-🔹 Personal Portfolio  
-👉 https://raif-dev.me/
-
-🔹 Django Web Apps *(in progress)*  
-- Authentication systems  
-- CRUD applications  
-- API-based projects  
+🌐 Portfolio → https://raif-dev.me/  
+🧩 Django apps (APIs, CRUD, auth systems) — in progress
 
 ---
 
-## 📚 Currently Learning
-
-- Advanced Django (DRF, scalability, best practices)
-- Database optimization & design
-- Backend architecture & performance
+## 🎯 Goal
+Build production-level systems & start working with real clients
 
 ---
 
-## 🎯 Goals
-
-- Build production-level Django applications  
-- Master backend engineering concepts  
-- Start freelancing & working on real-world projects  
-
----
-
-## 📫 Contact Me
-
-- 🌐 Portfolio: https://raif-dev.me/
-- 💼 LinkedIn: *(add your link)*
-- 📧 Email: *(add your email)*
-
----
-
-⭐ *Focused on backend. Building real systems. Learning every day.*
+📫 Open to collaborations • Freelance • Opportunities  
+⭐ *Backend mindset. Clean code. Real impact.*
