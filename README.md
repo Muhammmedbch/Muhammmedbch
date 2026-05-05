@@ -49,7 +49,7 @@
 ---
 
 <p align="center">
-  🌍 <a href="https://raif-dev.me/">Portfolio</a> • 💼 <a href="www.linkedin.com/in/mohamed-raif-bachir-cherif-20908b335">LinkedIn</a> • 📫 Open to Freelance & Opportunities
+  🌍 <a href="https://raif-dev.me/">Portfolio</a> • 💼 <a href="www.linkedin.com/in/mohamed-raif-bachir-cherif">LinkedIn</a> • 📫 Open to Freelance & Opportunities
 </p>
 
 ---
