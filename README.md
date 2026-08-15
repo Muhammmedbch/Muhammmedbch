@@ -26,7 +26,7 @@
 
 ## 🧠 What I Do
 
--  Design **scalable backend systems** with Django **Recommendation Systems** with Python pandas and scikit-learn 
+-  Design **scalable backend systems** with Django and **Recommendation Systems** with Python pandas and scikit-learn 
 -  Build **secure authentication & REST APIs** and **Machine Learning Models** 
 -  Focus on **clean architecture & performance**  
 
