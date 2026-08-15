@@ -26,19 +26,15 @@
 
 ## 🧠 What I Do
 
-- 🔧 Design **scalable backend systems** with Django  
-- 🔐 Build **secure authentication & REST APIs**  
-- ⚙️ Focus on **clean architecture & performance**  
+-  Design **scalable backend systems** with Django **Recommendation Systems** with Python pandas and scikit-learn 
+-  Build **secure authentication & REST APIs** and **Machine Learning Models** 
+-  Focus on **clean architecture & performance**  
 
 ---
 
 ## 🚀 Projects
 
-🌐 **Portfolio**  
-👉 https://raif-dev.me/
-
-🧩 **Django Apps**  
-- APIs • Auth systems • CRUD platforms *(in progress)*
+*(in progress)*
 
 ---
 
