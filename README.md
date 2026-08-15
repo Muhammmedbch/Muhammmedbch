@@ -1,7 +1,7 @@
 <h1 align="center">👋 Mohamed Bachir Cherif</h1>
 
 <p align="center">
-  💻 Backend-Focused Web Developer • Django Specialist • Data Scientist 
+   Backend Web Developer • Django Specialist • Data Scientist 
 </p>
 
 <p align="center">
